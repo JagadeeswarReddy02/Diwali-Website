@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.top-image-heading {
+    color: white;
+    font-family: "Caveat";
+    width: 180px;
+    margin: 25px;
+}
+
+.bg-bottom-container {
+    background-color: #e6f6ff;
+    text-align: center;
+    padding: 40px;
+}
+
+.card-item {
+    background-color: white;
+    width: 160px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 25px;
+}
+
+.baloon-image {
+    height: 80px;
+    width: 80px;
+}
+
+.item-name {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.item-price {
+    color: grey;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
